@@ -10,6 +10,8 @@ body{
 
 header{
     background-color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 h1{
@@ -40,7 +42,7 @@ h1{
 /* ----------------------------------- */
 /* bottoni colorati  */
 
-#bottone-blu{
+.bottone-blu{
     background-color: cornflowerblue;
     color: white;
 }
@@ -57,11 +59,25 @@ h1{
     padding: 6px;
 }
 
+.bottoni-materie{
+    font-size: small;
+    padding: 4px;
+    border-radius: 8px;
+    display: inline-block;
+}
+
 /* ----------------------------------- */
 .box-white{
     background-color: white;
     padding-left: 40px;
     padding-right: 40px;
+}
+
+.attivita-titoli{
+    font-size:large ;
+    font-weight: 900;
+    font-family: sans-serif;
+
 }
 
 
