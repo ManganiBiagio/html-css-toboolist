@@ -24,8 +24,44 @@ h1{
 
 #box-center{
     margin: auto;
-    width: 60%;
-    background-color: white;
+    width: 70%;
     margin-top: 5rem;
+    
 }
+
+#box-task{
+    margin-top: 1px;
+}
+
+#box-botton{
+    padding-top:15px ;
+    padding-bottom: 15px;
+}
+/* ----------------------------------- */
+/* bottoni colorati  */
+
+#bottone-blu{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+
+#bottone-bianco{
+    background-color: white;
+    color: lightgray;
+    border: 1px solid lightgray;
+}
+
+.button{
+    border-radius: 6px;
+    padding: 6px;
+}
+
+/* ----------------------------------- */
+.box-white{
+    background-color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
 
