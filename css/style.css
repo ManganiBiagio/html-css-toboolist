@@ -64,6 +64,32 @@ h1{
     padding: 4px;
     border-radius: 8px;
     display: inline-block;
+    
+}
+
+.bottone-viola{
+    background-color: blueviolet;
+    color: white;
+}
+
+.bottone-verde{
+    background-color: green;
+    color: white;
+}
+
+.bottone-ocra{
+    background-color: sandybrown;
+    color: white;
+}
+
+.bottone-rosa{
+    background-color: palevioletred;
+    color: white;
+}
+
+.bottone-verdechiaro{
+    background-color: greenyellow;
+    color: white;
 }
 
 /* ----------------------------------- */
@@ -78,6 +104,10 @@ h1{
     font-weight: 900;
     font-family: sans-serif;
 
+}
+
+.box-spacebottom{
+    padding-bottom: 10px;
 }
 
 
